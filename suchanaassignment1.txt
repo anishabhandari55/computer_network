@@ -1,0 +1,22 @@
+First Assignment of Computer Network
+
+By running the ipconfig command and capturing its output, we can extract the IP address from the command output.
+
+1) IP address : 192.168.18.5
+
+2) Subnet Mask : 255.255.255.0
+
+To find the network address, convert the IP address and subnet mask to binary, perform a bitwise AND operation, and convert the result back to decimal. For the broadcast address, take the network address and replace the last part with 255. 
+
+
+3) Network Address : 192.168.18.0
+
+4) Broadcast Address : 192.168.18.255
+
+5)The total number of devices supported by the network is 256-2=254.
+NOTE: The number of devices supported by a network depends on the subnet mask. The subnet mask determines how many bits are used for the network portion of the address and how many bits are used for the host portion. This is calculated by subtracting the network and broadcast addresses from the total number of addresses in the subnet.
+
+
+
+
+
