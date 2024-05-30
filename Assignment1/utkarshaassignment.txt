@@ -1,0 +1,16 @@
+[200~Assignment 1st of Computer Network
+
+We get our IP address and subnet mask from command prompt using command "ipconfig"
+
+
+1. IP address : 192.168.0.1
+
+2. Subnet Mask : 255.255.255.0
+
+
+For question number 3 and 4, to get Network address, we use our IP address and subnet mask , first we change IP address and Subnet Mask to binary and we AND them. and for broadcast address we just replace the last number of Network address with 255 so finally we will get 
+
+3. Network Address : 192.168.0.0
+4. Broadcast Address : 192.168.0.255
+
+5. Number of devices supported by the network is 256-2=254.
