@@ -1,4 +1,4 @@
-[200~Assignment 1st of Computer Network
+Assignment 1st of Computer Network
 
 We get our IP address and subnet mask from command prompt using command "ipconfig"
 
