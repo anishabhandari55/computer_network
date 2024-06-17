@@ -1,1 +1,17 @@
 
+1st Assignment of Computer Network
+
+We get our IP address and subnet mask from command prompt using command "ipconfig"
+
+
+1. IP address : 192.168.1.5
+
+2. Subnet Mask : 255.255.255.0
+
+
+For  Network address and Broadcast address, we use our IP address and subnet mask  
+
+3. Network Address : 192.168.1.0
+4. Broadcast Address : 192.168.1.255
+
+5. Number of devices supported by the network is 256-2=254.
