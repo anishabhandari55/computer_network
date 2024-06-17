@@ -14,9 +14,3 @@ For question number 3 and 4, to get Network address, we use our IP address and s
 4. Broadcast Address : 192.168.0.255
 
 5. Number of devices supported by the network is 256-2=254.
-
-
-
-
-
-
